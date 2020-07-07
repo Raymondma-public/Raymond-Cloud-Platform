@@ -1,0 +1,468 @@
+Uri: https://demo.adminkit.io/index.html
+File Name: c:\adminkittemplate\demo.adminkit.io\index.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/img/icons/icon-48x48.png
+File Name: c:\adminkittemplate\demo.adminkit.io\img\icons\icon-48x48.png
+Content Type: image/png
+
+Uri: https://demo.adminkit.io/css/app.css
+File Name: c:\adminkittemplate\demo.adminkit.io\css\app.css
+Content Type: text/css
+
+Uri: https://demo.adminkit.io/dashboard-ecommerce.html
+File Name: c:\adminkittemplate\demo.adminkit.io\dashboard-ecommerce.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/dashboard-crypto.html
+File Name: c:\adminkittemplate\demo.adminkit.io\dashboard-crypto.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/pages-settings.html
+File Name: c:\adminkittemplate\demo.adminkit.io\pages-settings.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/pages-projects.html
+File Name: c:\adminkittemplate\demo.adminkit.io\pages-projects.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/pages-clients.html
+File Name: c:\adminkittemplate\demo.adminkit.io\pages-clients.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/pages-pricing.html
+File Name: c:\adminkittemplate\demo.adminkit.io\pages-pricing.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/pages-chat.html
+File Name: c:\adminkittemplate\demo.adminkit.io\pages-chat.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/pages-blank.html
+File Name: c:\adminkittemplate\demo.adminkit.io\pages-blank.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/pages-profile.html
+File Name: c:\adminkittemplate\demo.adminkit.io\pages-profile.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/pages-invoice.html
+File Name: c:\adminkittemplate\demo.adminkit.io\pages-invoice.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/pages-tasks.html
+File Name: c:\adminkittemplate\demo.adminkit.io\pages-tasks.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/calendar.html
+File Name: c:\adminkittemplate\demo.adminkit.io\calendar.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/pages-sign-in.html
+File Name: c:\adminkittemplate\demo.adminkit.io\pages-sign-in.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/pages-sign-up.html
+File Name: c:\adminkittemplate\demo.adminkit.io\pages-sign-up.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/pages-reset-password.html
+File Name: c:\adminkittemplate\demo.adminkit.io\pages-reset-password.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/pages-404.html
+File Name: c:\adminkittemplate\demo.adminkit.io\pages-404.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/pages-500.html
+File Name: c:\adminkittemplate\demo.adminkit.io\pages-500.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/ui-alerts.html
+File Name: c:\adminkittemplate\demo.adminkit.io\ui-alerts.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/ui-buttons.html
+File Name: c:\adminkittemplate\demo.adminkit.io\ui-buttons.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/ui-cards.html
+File Name: c:\adminkittemplate\demo.adminkit.io\ui-cards.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/ui-general.html
+File Name: c:\adminkittemplate\demo.adminkit.io\ui-general.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/ui-grid.html
+File Name: c:\adminkittemplate\demo.adminkit.io\ui-grid.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/ui-modals.html
+File Name: c:\adminkittemplate\demo.adminkit.io\ui-modals.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/ui-tabs.html
+File Name: c:\adminkittemplate\demo.adminkit.io\ui-tabs.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/ui-typography.html
+File Name: c:\adminkittemplate\demo.adminkit.io\ui-typography.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/icons-feather.html
+File Name: c:\adminkittemplate\demo.adminkit.io\icons-feather.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/icons-font-awesome.html
+File Name: c:\adminkittemplate\demo.adminkit.io\icons-font-awesome.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/forms-layouts.html
+File Name: c:\adminkittemplate\demo.adminkit.io\forms-layouts.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/forms-basic-inputs.html
+File Name: c:\adminkittemplate\demo.adminkit.io\forms-basic-inputs.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/forms-input-groups.html
+File Name: c:\adminkittemplate\demo.adminkit.io\forms-input-groups.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/tables-bootstrap.html
+File Name: c:\adminkittemplate\demo.adminkit.io\tables-bootstrap.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/forms-advanced-inputs.html
+File Name: c:\adminkittemplate\demo.adminkit.io\forms-advanced-inputs.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/forms-editors.html
+File Name: c:\adminkittemplate\demo.adminkit.io\forms-editors.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/forms-validation.html
+File Name: c:\adminkittemplate\demo.adminkit.io\forms-validation.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/forms-wizard.html
+File Name: c:\adminkittemplate\demo.adminkit.io\forms-wizard.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/tables-datatables-responsive.html
+File Name: c:\adminkittemplate\demo.adminkit.io\tables-datatables-responsive.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/tables-datatables-buttons.html
+File Name: c:\adminkittemplate\demo.adminkit.io\tables-datatables-buttons.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/tables-datatables-column-search.html
+File Name: c:\adminkittemplate\demo.adminkit.io\tables-datatables-column-search.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/tables-datatables-multi.html
+File Name: c:\adminkittemplate\demo.adminkit.io\tables-datatables-multi.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/tables-datatables-ajax.html
+File Name: c:\adminkittemplate\demo.adminkit.io\tables-datatables-ajax.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/charts-chartjs.html
+File Name: c:\adminkittemplate\demo.adminkit.io\charts-chartjs.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/charts-apexcharts.html
+File Name: c:\adminkittemplate\demo.adminkit.io\charts-apexcharts.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/notifications.html
+File Name: c:\adminkittemplate\demo.adminkit.io\notifications.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/maps-google.html
+File Name: c:\adminkittemplate\demo.adminkit.io\maps-google.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/maps-vector.html
+File Name: c:\adminkittemplate\demo.adminkit.io\maps-vector.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/js/settings.js
+File Name: c:\adminkittemplate\demo.adminkit.io\js\settings.js
+Content Type: application/javascript
+
+Uri: https://demo.adminkit.io/img/avatars/avatar-5.jpg
+File Name: c:\adminkittemplate\demo.adminkit.io\img\avatars\avatar-5.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.adminkit.io/img/avatars/avatar-2.jpg
+File Name: c:\adminkittemplate\demo.adminkit.io\img\avatars\avatar-2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.adminkit.io/img/avatars/avatar-4.jpg
+File Name: c:\adminkittemplate\demo.adminkit.io\img\avatars\avatar-4.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.adminkit.io/img/avatars/avatar-3.jpg
+File Name: c:\adminkittemplate\demo.adminkit.io\img\avatars\avatar-3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.adminkit.io/img/flags/us.png
+File Name: c:\adminkittemplate\demo.adminkit.io\img\flags\us.png
+Content Type: image/png
+
+Uri: https://demo.adminkit.io/img/flags/es.png
+File Name: c:\adminkittemplate\demo.adminkit.io\img\flags\es.png
+Content Type: image/png
+
+Uri: https://demo.adminkit.io/img/flags/ru.png
+File Name: c:\adminkittemplate\demo.adminkit.io\img\flags\ru.png
+Content Type: image/png
+
+Uri: https://demo.adminkit.io/img/flags/de.png
+File Name: c:\adminkittemplate\demo.adminkit.io\img\flags\de.png
+Content Type: image/png
+
+Uri: https://demo.adminkit.io/img/avatars/avatar.jpg
+File Name: c:\adminkittemplate\demo.adminkit.io\img\avatars\avatar.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.adminkit.io/js/vendor.js
+File Name: c:\adminkittemplate\demo.adminkit.io\js\vendor.js
+Content Type: application/javascript
+
+Uri: https://demo.adminkit.io/js/app.js
+File Name: c:\adminkittemplate\demo.adminkit.io\js\app.js
+Content Type: application/javascript
+
+Uri: https://demo.adminkit.io/fonts/Inter-Thin-BETA.woff2
+File Name: c:\adminkittemplate\demo.adminkit.io\fonts\Inter-Thin-BETA.woff2
+Content Type: font/woff2
+
+Uri: https://demo.adminkit.io/fonts/Inter-Thin-BETA.woff
+File Name: c:\adminkittemplate\demo.adminkit.io\fonts\Inter-Thin-BETA.woff
+Content Type: application/font-woff
+
+Uri: https://demo.adminkit.io/fonts/Inter-ThinItalic-BETA.woff2
+File Name: c:\adminkittemplate\demo.adminkit.io\fonts\Inter-ThinItalic-BETA.woff2
+Content Type: font/woff2
+
+Uri: https://demo.adminkit.io/fonts/Inter-ThinItalic-BETA.woff
+File Name: c:\adminkittemplate\demo.adminkit.io\fonts\Inter-ThinItalic-BETA.woff
+Content Type: application/font-woff
+
+Uri: https://demo.adminkit.io/fonts/Inter-ExtraLight-BETA.woff2
+File Name: c:\adminkittemplate\demo.adminkit.io\fonts\Inter-ExtraLight-BETA.woff2
+Content Type: font/woff2
+
+Uri: https://demo.adminkit.io/fonts/Inter-ExtraLight-BETA.woff
+File Name: c:\adminkittemplate\demo.adminkit.io\fonts\Inter-ExtraLight-BETA.woff
+Content Type: application/font-woff
+
+Uri: https://demo.adminkit.io/fonts/Inter-ExtraLightItalic-BETA.woff2
+File Name: c:\adminkittemplate\demo.adminkit.io\fonts\Inter-ExtraLightItalic-BETA.woff2
+Content Type: font/woff2
+
+Uri: https://demo.adminkit.io/fonts/Inter-ExtraLightItalic-BETA.woff
+File Name: c:\adminkittemplate\demo.adminkit.io\fonts\Inter-ExtraLightItalic-BETA.woff
+Content Type: application/font-woff
+
+Uri: https://demo.adminkit.io/fonts/Inter-Light-BETA.woff2
+File Name: c:\adminkittemplate\demo.adminkit.io\fonts\Inter-Light-BETA.woff2
+Content Type: font/woff2
+
+Uri: https://demo.adminkit.io/fonts/Inter-Light-BETA.woff
+File Name: c:\adminkittemplate\demo.adminkit.io\fonts\Inter-Light-BETA.woff
+Content Type: application/font-woff
+
+Uri: https://demo.adminkit.io/fonts/Inter-LightItalic-BETA.woff2
+File Name: c:\adminkittemplate\demo.adminkit.io\fonts\Inter-LightItalic-BETA.woff2
+Content Type: font/woff2
+
+Uri: https://demo.adminkit.io/fonts/Inter-LightItalic-BETA.woff
+File Name: c:\adminkittemplate\demo.adminkit.io\fonts\Inter-LightItalic-BETA.woff
+Content Type: application/font-woff
+
+Uri: https://demo.adminkit.io/fonts/Inter-Regular.woff2
+File Name: c:\adminkittemplate\demo.adminkit.io\fonts\Inter-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://demo.adminkit.io/fonts/Inter-Regular.woff
+File Name: c:\adminkittemplate\demo.adminkit.io\fonts\Inter-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://demo.adminkit.io/fonts/Inter-Italic.woff2
+File Name: c:\adminkittemplate\demo.adminkit.io\fonts\Inter-Italic.woff2
+Content Type: font/woff2
+
+Uri: https://demo.adminkit.io/fonts/Inter-Italic.woff
+File Name: c:\adminkittemplate\demo.adminkit.io\fonts\Inter-Italic.woff
+Content Type: application/font-woff
+
+Uri: https://demo.adminkit.io/fonts/Inter-Medium.woff2
+File Name: c:\adminkittemplate\demo.adminkit.io\fonts\Inter-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://demo.adminkit.io/fonts/Inter-Medium.woff
+File Name: c:\adminkittemplate\demo.adminkit.io\fonts\Inter-Medium.woff
+Content Type: application/font-woff
+
+Uri: https://demo.adminkit.io/fonts/Inter-MediumItalic.woff2
+File Name: c:\adminkittemplate\demo.adminkit.io\fonts\Inter-MediumItalic.woff2
+Content Type: font/woff2
+
+Uri: https://demo.adminkit.io/fonts/Inter-MediumItalic.woff
+File Name: c:\adminkittemplate\demo.adminkit.io\fonts\Inter-MediumItalic.woff
+Content Type: application/font-woff
+
+Uri: https://demo.adminkit.io/fonts/Inter-SemiBold.woff2
+File Name: c:\adminkittemplate\demo.adminkit.io\fonts\Inter-SemiBold.woff2
+Content Type: font/woff2
+
+Uri: https://demo.adminkit.io/fonts/Inter-SemiBold.woff
+File Name: c:\adminkittemplate\demo.adminkit.io\fonts\Inter-SemiBold.woff
+Content Type: application/font-woff
+
+Uri: https://demo.adminkit.io/fonts/Inter-SemiBoldItalic.woff2
+File Name: c:\adminkittemplate\demo.adminkit.io\fonts\Inter-SemiBoldItalic.woff2
+Content Type: font/woff2
+
+Uri: https://demo.adminkit.io/fonts/Inter-SemiBoldItalic.woff
+File Name: c:\adminkittemplate\demo.adminkit.io\fonts\Inter-SemiBoldItalic.woff
+Content Type: application/font-woff
+
+Uri: https://demo.adminkit.io/fonts/Inter-Bold.woff2
+File Name: c:\adminkittemplate\demo.adminkit.io\fonts\Inter-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://demo.adminkit.io/fonts/Inter-Bold.woff
+File Name: c:\adminkittemplate\demo.adminkit.io\fonts\Inter-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://demo.adminkit.io/fonts/Inter-BoldItalic.woff2
+File Name: c:\adminkittemplate\demo.adminkit.io\fonts\Inter-BoldItalic.woff2
+Content Type: font/woff2
+
+Uri: https://demo.adminkit.io/fonts/Inter-BoldItalic.woff
+File Name: c:\adminkittemplate\demo.adminkit.io\fonts\Inter-BoldItalic.woff
+Content Type: application/font-woff
+
+Uri: https://demo.adminkit.io/fonts/Inter-ExtraBold.woff2
+File Name: c:\adminkittemplate\demo.adminkit.io\fonts\Inter-ExtraBold.woff2
+Content Type: font/woff2
+
+Uri: https://demo.adminkit.io/fonts/Inter-ExtraBold.woff
+File Name: c:\adminkittemplate\demo.adminkit.io\fonts\Inter-ExtraBold.woff
+Content Type: application/font-woff
+
+Uri: https://demo.adminkit.io/fonts/Inter-ExtraBoldItalic.woff2
+File Name: c:\adminkittemplate\demo.adminkit.io\fonts\Inter-ExtraBoldItalic.woff2
+Content Type: font/woff2
+
+Uri: https://demo.adminkit.io/fonts/Inter-ExtraBoldItalic.woff
+File Name: c:\adminkittemplate\demo.adminkit.io\fonts\Inter-ExtraBoldItalic.woff
+Content Type: application/font-woff
+
+Uri: https://demo.adminkit.io/fonts/Inter-Black.woff2
+File Name: c:\adminkittemplate\demo.adminkit.io\fonts\Inter-Black.woff2
+Content Type: font/woff2
+
+Uri: https://demo.adminkit.io/fonts/Inter-Black.woff
+File Name: c:\adminkittemplate\demo.adminkit.io\fonts\Inter-Black.woff
+Content Type: application/font-woff
+
+Uri: https://demo.adminkit.io/fonts/Inter-BlackItalic.woff2
+File Name: c:\adminkittemplate\demo.adminkit.io\fonts\Inter-BlackItalic.woff2
+Content Type: font/woff2
+
+Uri: https://demo.adminkit.io/fonts/Inter-BlackItalic.woff
+File Name: c:\adminkittemplate\demo.adminkit.io\fonts\Inter-BlackItalic.woff
+Content Type: application/font-woff
+
+Uri: https://demo.adminkit.io/fonts/fa-brands-400.eot
+File Name: c:\adminkittemplate\demo.adminkit.io\fonts\fa-brands-400.bin
+Content Type: application/octet-stream
+
+Uri: https://demo.adminkit.io/fonts/fa-brands-400.eot?
+File Name: c:\adminkittemplate\demo.adminkit.io\fonts\fa-brands-400-1.bin
+Content Type: application/octet-stream
+
+Uri: https://demo.adminkit.io/fonts/fa-brands-400.woff2
+File Name: c:\adminkittemplate\demo.adminkit.io\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://demo.adminkit.io/fonts/fa-brands-400.woff
+File Name: c:\adminkittemplate\demo.adminkit.io\fonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://demo.adminkit.io/fonts/fa-brands-400.ttf
+File Name: c:\adminkittemplate\demo.adminkit.io\fonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://demo.adminkit.io/fonts/fa-brands-400.svg
+File Name: c:\adminkittemplate\demo.adminkit.io\fonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.adminkit.io/fonts/fa-regular-400.eot
+File Name: c:\adminkittemplate\demo.adminkit.io\fonts\fa-regular-400.bin
+Content Type: application/octet-stream
+
+Uri: https://demo.adminkit.io/fonts/fa-regular-400.eot?
+File Name: c:\adminkittemplate\demo.adminkit.io\fonts\fa-regular-400-1.bin
+Content Type: application/octet-stream
+
+Uri: https://demo.adminkit.io/fonts/fa-regular-400.woff2
+File Name: c:\adminkittemplate\demo.adminkit.io\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://demo.adminkit.io/fonts/fa-regular-400.woff
+File Name: c:\adminkittemplate\demo.adminkit.io\fonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://demo.adminkit.io/fonts/fa-regular-400.ttf
+File Name: c:\adminkittemplate\demo.adminkit.io\fonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://demo.adminkit.io/fonts/fa-regular-400.svg
+File Name: c:\adminkittemplate\demo.adminkit.io\fonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.adminkit.io/fonts/fa-solid-900.eot
+File Name: c:\adminkittemplate\demo.adminkit.io\fonts\fa-solid-900.bin
+Content Type: application/octet-stream
+
+Uri: https://demo.adminkit.io/fonts/fa-solid-900.eot?
+File Name: c:\adminkittemplate\demo.adminkit.io\fonts\fa-solid-900-1.bin
+Content Type: application/octet-stream
+
+Uri: https://demo.adminkit.io/fonts/fa-solid-900.woff2
+File Name: c:\adminkittemplate\demo.adminkit.io\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://demo.adminkit.io/fonts/fa-solid-900.woff
+File Name: c:\adminkittemplate\demo.adminkit.io\fonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://demo.adminkit.io/fonts/fa-solid-900.ttf
+File Name: c:\adminkittemplate\demo.adminkit.io\fonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://demo.adminkit.io/fonts/fa-solid-900.svg
+File Name: c:\adminkittemplate\demo.adminkit.io\fonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.adminkit.io/img/photos/unsplash-1.jpg
+File Name: c:\adminkittemplate\demo.adminkit.io\img\photos\unsplash-1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.adminkit.io/img/photos/unsplash-2.jpg
+File Name: c:\adminkittemplate\demo.adminkit.io\img\photos\unsplash-2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.adminkit.io/img/photos/unsplash-3.jpg
+File Name: c:\adminkittemplate\demo.adminkit.io\img\photos\unsplash-3.jpg
+Content Type: image/jpeg
+
