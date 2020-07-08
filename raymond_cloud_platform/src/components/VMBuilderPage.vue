@@ -24,6 +24,8 @@ k8sConfig<a-textarea id="k8sConfig" type="text" name="k8sConfig" rows="10" cols=
 <a-button type="primary" v-on:click="getVMConfig">getVMConfig</a-button>
 <a-button type="primary" v-on:click="buildVM">build VM</a-button>
    </a-row >
+
+   <terminal></terminal>
 <!-- <button id="getVMConfig">getVMConfig</button>
 <button id="buildVM">build VM</button> -->
 <!-- <br/>
@@ -38,7 +40,7 @@ k8sConfig<a-textarea id="k8sConfig" type="text" name="k8sConfig" rows="10" cols=
 
 <script>
 import axios from 'axios'
-
+import terminal from './terminal'
 export default {
   name: 'HelloWorld',
   data () {
@@ -50,6 +52,9 @@ export default {
       k8sConfig: "",
     
     }
+  },
+  components:{
+    terminal
   },
   methods:{
      getVMConfig (event) {
