@@ -25,11 +25,7 @@
   gtag('js', new Date());
 
   gtag('config', 'UA-120946860-10', { 'anonymize_ip': true });
-</script>
-
-<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
-
-</head>
+</script></head>
 <!--
   HOW TO USE: 
   data-theme: default (default), dark, light
@@ -38,8 +34,7 @@
 -->
 
 <body data-theme="default" data-layout="fluid" data-sidebar="left">
-	<div class="wrapper">
-		
+	<div class="wrapper" id="app">
 		<nav id="sidebar" class="sidebar">
 			<div class="sidebar-content js-simplebar">
 				<a class="sidebar-brand" href="index.html">
@@ -275,73 +270,6 @@
 
 				<div class="navbar-collapse collapse">
 					<ul class="navbar-nav navbar-align">
-
-						<li id="shellBtn" class="nav-item ">
-							<a class="nav-icon " href="#" id="cloudTerminalBtn" >
-								<div class="position-relative">
-									<i class="align-middle" data-feather="terminal"></i>
-									<!-- <span class="indicator">4</span> -->
-								</div>
-							</a>
-							<div class="dropdown-menu dropdown-menu-lg dropdown-menu-right py-0" aria-labelledby="alertsDropdown">
-								<!-- <div class="dropdown-menu-header">
-									4 New Notifications
-								</div>
-								<div class="list-group">
-									<a href="#" class="list-group-item">
-										<div class="row no-gutters align-items-center">
-											<div class="col-2">
-												<i class="text-danger" data-feather="alert-circle"></i>
-											</div>
-											<div class="col-10">
-												<div class="text-dark">Update completed</div>
-												<div class="text-muted small mt-1">Restart server 12 to complete the update.</div>
-												<div class="text-muted small mt-1">30m ago</div>
-											</div>
-										</div>
-									</a>
-									<a href="#" class="list-group-item">
-										<div class="row no-gutters align-items-center">
-											<div class="col-2">
-												<i class="text-warning" data-feather="bell"></i>
-											</div>
-											<div class="col-10">
-												<div class="text-dark">Lorem ipsum</div>
-												<div class="text-muted small mt-1">Aliquam ex eros, imperdiet vulputate hendrerit et.</div>
-												<div class="text-muted small mt-1">2h ago</div>
-											</div>
-										</div>
-									</a>
-									<a href="#" class="list-group-item">
-										<div class="row no-gutters align-items-center">
-											<div class="col-2">
-												<i class="text-primary" data-feather="home"></i>
-											</div>
-											<div class="col-10">
-												<div class="text-dark">Login from 192.186.1.8</div>
-												<div class="text-muted small mt-1">5h ago</div>
-											</div>
-										</div>
-									</a>
-									<a href="#" class="list-group-item">
-										<div class="row no-gutters align-items-center">
-											<div class="col-2">
-												<i class="text-success" data-feather="user-plus"></i>
-											</div>
-											<div class="col-10">
-												<div class="text-dark">New connection</div>
-												<div class="text-muted small mt-1">Christina accepted your request.</div>
-												<div class="text-muted small mt-1">14h ago</div>
-											</div>
-										</div>
-									</a>
-								</div>
-								<div class="dropdown-menu-footer">
-									<a href="#" class="text-muted">Show all notifications</a>
-								</div> -->
-							</div>
-						</li>						
-
 						<li class="nav-item dropdown">
 							<a class="nav-icon dropdown-toggle" href="#" id="alertsDropdown" data-toggle="dropdown">
 								<div class="position-relative">
@@ -521,7 +449,7 @@
 				</div>
 			</nav>
 
-			<main class="content">
+			<!-- <main class="content">
 				<div class="container-fluid p-0">
 
 					<div class="row mb-2 mb-xl-3">
@@ -890,8 +818,10 @@
 					</div>
 
 				</div>
-			</main>
+			</main> -->
 
+			<!-- <router-view></router-view> -->
+	<main-page></main-page>
 			<footer class="footer">
 				<div class="container-fluid">
 					<div class="row text-muted">
@@ -921,6 +851,49 @@
 			</footer>
 		</div>
 	</div>
+
+<!--Vue -->
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script><!--Vue core-->
+<script src="https://unpkg.com/vue-router/dist/vue-router.js"></script><!--Vue router-->
+<script src="https://cdn.jsdelivr.net/npm/vue-slim-tabs@0.4.0/dist/vue-slim-tabs.js"></script> <!--Vue for -->
+<script src="https://unpkg.com/http-vue-loader"></script><!--Vue loader for loading component -->
+
+<!--Main-->
+<script>
+	Vue.use(VueSlimTabs)
+	var app = new Vue({
+  el: '#app',
+  data: {
+    message: 'Hello Vue!'
+  },
+        components: {
+          'main-page': httpVueLoader('./main-page.vue')
+        }
+})
+</script>
+
+<!--Vue -->
+	<!-- <script>
+		const VM = httpVueLoader('./main-page.vue')
+		const Projects = { template: '<div>Projects</div>' }
+		const Ecommerce = { template: '<div>Ecommerce</div>' }
+		const routes = [
+		{ path: '/vm', component: VM },
+		{ path: '/projects', component: Projects },
+		{ path: '/ecommerce', component: Ecommerce }
+
+		]
+
+		const router = new VueRouter({
+		routes 
+		})
+
+
+		const app = new Vue({
+		router
+		}).$mount('#app')
+
+	</script> -->
 
 	<script src="js\vendor.js"></script>
 	<script src="js\app.js"></script>
