@@ -2,6 +2,9 @@
 
 This is a web frontend of Raymond Cloud Platform(RCP).
 
+Video Demo:
+https://www.youtube.com/watch?v=SEemPzAQ3eY
+
 ![image](https://github.com/Raymondma-public/Raymond-Cloud-Platform/blob/master/RCP.png)
 
 
